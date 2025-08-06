@@ -1,4 +1,9 @@
-.venv
-.idea
-__pycache__/
+# Ignore environment variables file
 .env
+.idea
+chroma_store
+  
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
