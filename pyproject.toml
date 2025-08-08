@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.13"
 dependencies = [
+    "anthropic>=0.62.0",
     "chromadb>=1.0.15",
     "google-genai>=1.9.0",
     "langchain>=0.3.23",
@@ -16,10 +17,12 @@ dependencies = [
     "loguru>=0.7.3",
     "notebook>=7.3.3",
     "openai>=1.98.0",
+    "openai-agents>=0.2.4",
     "pymupdf>=1.26.3",
     "pynvml>=12.0.0",
     "pypdf>=5.9.0",
     "python-dotenv>=1.1.0",
     "torch>=2.7.1",
+    "xai-sdk>=1.0.1",
 ]
 #uv sync upgrade # to update all dependencies
