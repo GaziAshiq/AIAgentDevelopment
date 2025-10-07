@@ -2,8 +2,10 @@
 .env
 .idea
 chroma_store
-  
+.langgraph_api
+.venv
+__pycache__
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
-
+uv.lock

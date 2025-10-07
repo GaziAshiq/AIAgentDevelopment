@@ -1,0 +1,10 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "agent_dev": "Agentic AI Engineering/LangGraph/fundamental.py:agent_dev",
+    "react_agent": "Agentic AI Engineering/LangGraph/AI_Agents.py:app"
+  },
+  "env": ".env"
+}
