@@ -22,10 +22,12 @@ dependencies = [
     "notebook>=7.3.3",
     "openai>=1.98.0",
     "openai-agents>=0.2.4",
+    "psycopg2-binary>=2.9.0",
     "pymupdf>=1.26.3",
     "pypdf>=5.9.0",
     "pypdf2>=3.0.1",
     "python-dotenv>=1.1.0",
+    "sqlalchemy>=2.0.0",
     "torch>=2.7.1",
     "xai-sdk>=1.0.1",
 ]
